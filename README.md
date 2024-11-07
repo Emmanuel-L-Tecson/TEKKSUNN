@@ -10,5 +10,5 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # About
-My real name is Emmanuel Leu Tecson, I'm currently learning full stack development from ![The Odin Project](https://www.theodinproject.com/).
+My real name is Emmanuel Leu Tecson, I'm currently learning full stack development from [The Odin Project](https://www.theodinproject.com/).
 I hope to finish it by April 2025 and start making money from freelancing.
